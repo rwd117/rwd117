@@ -14,7 +14,7 @@ Frontend: JavaScript(jQuery), css
 
 ## 교육기관에서 교육 받은 자료
 
-### [(Java)교육 받은 자료](https://github.com/rwd117/Hello20.08.10)
+### [Java](https://github.com/rwd117/Hello20.08.10)
     
     교육기관에서 교육 받은 java 저장
 
