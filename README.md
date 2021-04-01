@@ -2,6 +2,13 @@
 #### 나이 : 28세(1994년)
 #### 이메일 : rwd117@naver.com
 #### 연락 번호 : 
+#### 개발 흔적 및 개념 정리 : 티스토리(https://coie117.tistory.com/)
+----------------------
+## 개발 가능 언어
+
+Backend: Spring(legacy 및 security) | Java | Oracle | Mybatis | Tomcat 9.0 | Aws(EC2,RDS) | 
+
+Frontend: JavaScript(jQuery), css
 
 ----------------------
 
