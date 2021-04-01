@@ -6,7 +6,7 @@
 ----------------------
 ## 개발 가능 언어
 
-Backend: Spring(legacy 및 security) | Java | Oracle | Mybatis | Tomcat 9.0 | Aws(EC2,RDS) | 
+Backend: Spring(legacy 및 security) | Java | Oracle | Mybatis | Ajax | Aws(EC2,RDS) | 
 
 Frontend: JavaScript(jQuery), css
 
