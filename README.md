@@ -19,8 +19,7 @@ Frontend: JavaScript(jQuery), css
 ### [Java](https://github.com/rwd117/Hello20.08.10)
     
     교육기관에서 교육 받은 java 저장
-    개인 프로젝트([도서관리](https://github.com/rwd117/Hello20.08.10/commit/54b91e94a8310cfdc7825cff10acfa1b87b969a4),
-    [pc방](https://github.com/rwd117/Hello20.08.10/tree/master/PCho))
+
 
 ### [HTML,CSS,jquery,javascript](https://github.com/rwd117/rwd117.github.io)
     
