@@ -14,19 +14,6 @@ Frontend: JavaScript(jQuery), css
 
 ----------------------
 
-## 교육기관에서 교육 받은 자료
-
-### [Java](https://github.com/rwd117/Hello20.08.10)
-    
-    교육기관에서 교육 받은 java 저장
-
-
-### [HTML,CSS,jquery,javascript](https://github.com/rwd117/rwd117.github.io)
-    
-    교육기관에서 교육받은 HTML,CSS,jquery,javascript 및 개인이 공부한 자료들
-   
-----------------------
-
 ## 본인의 호기심 및 팀 프로젝트 자료
 
 
@@ -41,3 +28,17 @@ Frontend: JavaScript(jQuery), css
 ### [팀 프로젝트 Ssadagu](https://github.com/rwd117/teamproject/tree/master/)
 
     팀 프로젝트
+    
+    
+----------------------
+
+## 교육기관에서 교육 받은 자료
+
+### [Java](https://github.com/rwd117/Hello20.08.10)
+    
+    교육기관에서 교육 받은 java 저장
+
+
+### [HTML,CSS,jquery,javascript](https://github.com/rwd117/rwd117.github.io)
+    
+    교육기관에서 교육받은 HTML,CSS,jquery,javascript 및 개인이 공부한 자료들
