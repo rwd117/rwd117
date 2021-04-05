@@ -25,7 +25,7 @@ Frontend: JavaScript(jQuery), css
 
     부트스트랩 호기심 및 혼자서 게시판 구현 욕심
 
-### [팀 프로젝트 Ssadagu](https://github.com/rwd117/teamproject/tree/master/)
+### [(Spring)팀 프로젝트 Ssadagu](https://github.com/rwd117/teamproject/tree/master/)
 
     팀 프로젝트
     
