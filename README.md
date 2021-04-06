@@ -16,6 +16,13 @@ Frontend: JavaScript(jQuery), css
 
 ## 본인의 호기심 및 팀 프로젝트 자료
 
+### [개인 프로젝트](https://github.com/rwd117/Toy-Project)
+        
+     진행중인 프로젝트
+
+### [(Spring)팀 프로젝트 Ssadagu](https://github.com/rwd117/teamproject/tree/master/)
+
+    팀 프로젝트
 
 ### [무작위로 화면 사각형으로 덮기](https://github.com/rwd117/quar)
     
@@ -25,10 +32,6 @@ Frontend: JavaScript(jQuery), css
 
     부트스트랩 호기심 및 혼자서 게시판 구현 욕심
 
-### [(Spring)팀 프로젝트 Ssadagu](https://github.com/rwd117/teamproject/tree/master/)
-
-    팀 프로젝트
-    
     
 ----------------------
 
