@@ -16,9 +16,13 @@ Frontend: JavaScript(jQuery), css
 
 ## 본인의 호기심 및 팀 프로젝트 자료
 
+### [개인 프로젝트2](https://github.com/rwd117/Rest)
+        
+      Rest 에 관하여
+
 ### [개인 프로젝트](https://github.com/rwd117/Toy-Project)
         
-     진행중인 프로젝트
+     스프링 시큐리티 및 CRUD게시판
 
 ### [(Spring)팀 프로젝트 Ssadagu](https://github.com/rwd117/teamproject/tree/master/)
 
