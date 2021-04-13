@@ -22,7 +22,7 @@ Frontend: JavaScript(jQuery), css
 
 ### [개인 프로젝트](https://github.com/rwd117/Toy-Project)
         
-     스프링 시큐리티 및 CRUD게시판(카카오 맵  )
+     스프링 시큐리티 및 CRUD게시판(카카오 맵 )
 
 ### [(Spring)팀 프로젝트 Ssadagu](https://github.com/rwd117/teamproject/tree/master/)
 
