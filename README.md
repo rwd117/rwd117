@@ -8,7 +8,7 @@
 ----------------------
 ## 개발 가능 언어
 
-Backend: Spring MVC | Java | Oracle | Mybatis | Ajax | Aws(EC2,RDS) | 
+Backend: Spring MVC | Java | Oracle | Mybatis | Aws(EC2,RDS) | 
 
 Frontend: JavaScript(jQuery), css
 
