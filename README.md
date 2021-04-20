@@ -10,7 +10,7 @@
 
 Backend: Spring MVC | Java | Oracle | Mybatis | Aws(EC2,RDS) | 
 
-Frontend: JavaScript(jQuery), css
+Frontend: JavaScript(jQuery), css , BootStrap
 
 ----------------------
 
