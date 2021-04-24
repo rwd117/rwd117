@@ -6,7 +6,7 @@
 #### 목표 : 주말은 반드시 커밋 하기!
 
 ----------------------
-## 개발 가능 언어
+## 기술 스택
 
 Backend: Spring MVC | Java | Oracle | Mybatis | Aws(EC2,RDS) | 
 
