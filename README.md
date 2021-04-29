@@ -19,7 +19,7 @@ Frontend: JavaScript(jQuery), css , BootStrap
 
 ### [개인 프로젝트](https://github.com/rwd117/Toy-Project)
         
-     스프링 시큐리티 및 CRUD게시판(카카오 맵 Api 이용 진행중)
+     음식점 리뷰 구현
 
 ### [(Spring)팀 프로젝트 Ssadagu](https://github.com/rwd117/teamproject/tree/master/)
 
