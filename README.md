@@ -21,9 +21,9 @@ Frontend: JavaScript(jQuery), css , BootStrap
         
      음식점 리뷰 구현
 
-### [(Spring)팀 프로젝트 Ssadagu](https://github.com/rwd117/teamproject/tree/master/)
+### [팀 프로젝트 ](https://github.com/rwd117/teamproject/tree/master/)
 
-    팀 프로젝트
+    팀 프로젝트(쇼핑몰)
 
 ----------------------
 
