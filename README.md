@@ -17,13 +17,15 @@ Frontend: JavaScript(jQuery), css , BootStrap
 ## 프로젝트 자료
 
 
+### [팀 프로젝트 ](https://github.com/rwd117/teamproject/tree/master/)
+
+    팀 프로젝트(쇼핑몰)
+
+
 ### [개인 프로젝트](https://github.com/rwd117/Toy-Project)
         
      음식점 리뷰 구현
 
-### [팀 프로젝트 ](https://github.com/rwd117/teamproject/tree/master/)
-
-    팀 프로젝트(쇼핑몰)
 
 ----------------------
 
