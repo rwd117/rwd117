@@ -28,6 +28,8 @@ Frontend: JavaScript(jQuery), css , BootStrap
 
 ### [NodeJs로 CRUD](https://github.com/rwd117/nodejs)
 
+### [JPA 활용](https://github.com/rwd117/JPA)
+
 ----------------------
 
 ### 본인의 호기심
